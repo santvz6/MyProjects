@@ -1,6 +1,8 @@
 **/venv/
 **/.venv/
 
+**/dataset/
+
 *.pyc
 *.pyo
 __pycache__/
