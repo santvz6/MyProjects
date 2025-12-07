@@ -1,0 +1,181 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/Mapa.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "C:/Users/santa/Escritorio/Game_board/assets/Furniture1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/Furnitures1.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/Grass1.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/Library/DecoD.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/Library/Detalles.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/Library/EmptyBooks.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/Library/FilledBooks.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/Library/Ground.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/decoration1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/mapa1.tsx": {
+            "scaleInDock": 2
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/pixel-art-house-export.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "C:/Users/santa/Escritorio/Game_board/assets/separacion.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/santa/Escritorio/Game_board/mAPA.tmx": {
+            "expandedGroupLayers": [
+                58,
+                21,
+                65,
+                79,
+                22,
+                46,
+                63,
+                64
+            ],
+            "scale": 0.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 459,
+                "y": 893
+            }
+        },
+        "C:/Users/santa/Escritorio/Game_board/mAPA.tmx#separacion": {
+            "scaleInDock": 1
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/Casillas.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/Mapa.tmx": {
+            "expandedGroupLayers": [
+                22,
+                79,
+                46
+            ],
+            "scale": 1,
+            "selectedLayer": 19,
+            "viewCenter": {
+                "x": 528.5,
+                "y": 431.5
+            }
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/Mapa.tmx#separacion": {
+            "scaleInDock": 1
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets/Furnitures1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets/Grass1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets/Library/DecoD.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets/Library/Detalles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets/Library/EmptyBooks.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets/Library/FilledBooks.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets/Library/Ground.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets/decoration1.tsx": {
+            "scaleInDock": 1.5
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets/mapa1.tsx": {
+            "scaleInDock": 2
+        },
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets/pixel-art-house-export.tsx": {
+            "scaleInDock": 1
+        },
+        "GoGayTiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map_TMX.tmx": {
+            "expandedGroupLayers": [
+                13,
+                7
+            ],
+            "scale": 0.75,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 1151.3333333333333,
+                "y": 648.6666666666667
+            }
+        },
+        "TilesImport/GoGayTiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        }
+    },
+    "last.exportedFilePath": "C:/Users/santa/Escritorio/Game_board",
+    "last.externalTilesetPath": "C:/Users/santa/Escritorio/GoGay/TILED/TilesImport",
+    "last.imagePath": "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/assets",
+    "map.lastUsedExportFilter": "Todos los archivos (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/Mapa.tmx",
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/Casillas.tsx"
+    ],
+    "project": "Map_Project.tiled-project",
+    "recentFiles": [
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/Casillas.tsx",
+        "C:/Users/santa/Escritorio/JuegoMesa_HarryPotter/Mapa.tmx",
+        "C:/Users/santa/Escritorio/Game_board/assets/pixel-art-house-export.tsx",
+        "C:/Users/santa/Escritorio/Game_board/assets/Library/Ground.tsx",
+        "C:/Users/santa/Escritorio/Game_board/assets/Library/Detalles.tsx",
+        "C:/Users/santa/Escritorio/Game_board/assets/Library/DecoD.tsx",
+        "C:/Users/santa/Escritorio/Game_board/assets/Library/EmptyBooks.tsx",
+        "C:/Users/santa/Escritorio/Game_board/assets/Library/FilledBooks.tsx",
+        "C:/Users/santa/Escritorio/Game_board/assets/Furnitures1.tsx",
+        "C:/Users/santa/Escritorio/Game_board/assets/Grass1.tsx",
+        "C:/Users/santa/Escritorio/Game_board/assets/decoration1.tsx",
+        "C:/Users/santa/Escritorio/Game_board/mAPA.tmx"
+    ],
+    "tileset.lastUsedFilter": "Archivos de conjuntos de patrones Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
