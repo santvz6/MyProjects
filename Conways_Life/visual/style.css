@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f4f4f9;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.controles {
+    margin-bottom: 20px;
+}
+
+button, input {
+    padding: 10px 15px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#iniciar-detener {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#reiniciar {
+    background-color: #f44336;
+    color: white;
+}
+
+#juegoCanvas {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

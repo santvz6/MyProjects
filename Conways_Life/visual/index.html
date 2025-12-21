@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Juego de la Vida de Conway</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>El Juego de la Vida de Conway</h1>
+
+    <div class="controles">
+        <button id="iniciar-detener">Iniciar</button>
+        <button id="reiniciar">Reiniciar</button>
+        <label for="velocidad">Velocidad (ms):</label>
+        <input type="number" id="velocidad" value="100" min="50" max="1000">
+    </div>
+
+    <canvas id="juegoCanvas" width="600" height="600"></canvas>
+
+    <script src="script.js"></script>
+</body>
+</html>
