@@ -5,11 +5,20 @@
 
 *.pyc
 *.pyo
-__pycache__/
-
 *.log
+*.sqlite3
+
+# LaTex
+*.aux
+*.bbl
+*.bib
+*.blg
+*.bst
+*.out
+*.sty
+*.tex
 
 .vscode/
 .idea/
+__pycache__/
 
-*.sqlite3
